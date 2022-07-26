@@ -1,0 +1,618 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "title": "Age of Empires",
+      "overview": "The first in a series of strategic civilisation-building and warfare games following major events in history.",
+      "more": "Beginning from the Stone Age, players use villagers to gather resources to fund the creation of buildings and new units, as well as conducting research. As targets are achieved, the player advances through to the Iron Age, with more powerful units and sturdier buildings. This original game gives players the choice of 12 different civilisations, as well as whether to complete campaigns or may random maps.",
+      "reviews": [
+        {
+          "Courtney": "Excellent game for learning a bit about history while thrashing your older siblings."
+        }
+      ],
+      "released": "1997",
+      "developer": "Ensemble Studios",
+      "genres": [
+        "Strategy",
+        "Historical"
+      ],
+      "platforms": [
+        "Windows"
+      ],
+      "numPlayers": [
+        "Single-Player",
+        "Multiplayer"
+      ],
+      "url": "https://en.wikipedia.org/wiki/Age_of_Empires_(video_game)",
+      "image": "AoE"
+    },
+    {
+      "id": 2,
+      "title": "Haven",
+      "overview": "The story of two lovers, Yu and Kay, who escape their controlling society and find refuge on an uninhabited planet.",
+      "more": "After escaping The Apiary, Yu and Kay learn to survive on the planet Source, gathering resources and fixing their ship. Equipped with anti-gravity boots, mysteries abound as they explore their new environment, discovering the best and worst of humanity, while also befriending or fending off the odd local critter.",
+      "reviews": [
+        {
+          "Courtney": "So relaxing (except for boss fights). It's a mental haven."
+        }
+      ],
+      "released": "2020",
+      "developer": "The Game Bakers",
+      "genres": [
+        "RPG",
+        "Survival"
+      ],
+      "platforms": [
+        "PlayStation",
+        "Windows",
+        "Xbox",
+        "Switch"
+      ],
+      "numPlayers": [
+        "Single-Player",
+        "Multiplayer"
+      ],
+      "url": "https://www.thegamebakers.com/press/sheet.php?p=haven",
+      "image": "Haven"
+    },
+    {
+      "id": 3,
+      "title": "Everybody's Gone to the Rapture",
+      "overview": "Explore a small English country village and find out why everyone has disappered.",
+      "more": "Set in 1984 in Shropshire, England, the player explores the eerily quiet village and surrounds, piecing together the story of how and why everyone has disappered.",
+      "reviews": [
+        {
+          "Courtney": "Excellent soundtrack and visuals, with a compelling and mysterious story, I love this game."
+        }
+      ],
+      "released": "2015",
+      "developer": "The Chinese Room",
+      "genres": [
+        "Adventure"
+      ],
+      "platforms": [
+        "PlayStation",
+        "Windows"
+      ],
+      "numPlayers": [
+        "Single-Player"
+      ],
+      "url": "https://www.thechineseroom.co.uk/games/everybodys-gone-to-the-rapture",
+      "image": "Rapture"
+    },
+    {
+      "id": 4,
+      "title": "It Takes Two",
+      "overview": "Requiring two players, this is an epic action-adventure game with lots of different super powers, fun games, and an overzealous Book of Love called Dr Hakim.",
+      "more": "Cody and May are a couple on the brink of divorce, until their daughter's tears somehow transfer their minds into that of mini figurines?! The pair must learn to work together and support each other if they hope to return to their own bodies. Featuring anthropomorphised everything, and frankly terrible ideas from the main characters, this is a seriously fun and funny game to play with someone close.",
+      "reviews": [
+        {
+          "Courtney": "Apart from 'the elephant incident'... I enjoyed playing this game with my sister so much, it's definitely one of my all-time favourites. I wish we could forget the story and play it over fresh. Best two player game ever!"
+        }
+      ],
+      "released": "2021",
+      "developer": "Hazelight Studios",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Platform"
+      ],
+      "platforms": [
+        "PlayStation",
+        "Windows",
+        "Xbox"
+      ],
+      "numPlayers": [
+        "Multiplayer"
+      ],
+      "url": "https://www.ea.com/games/it-takes-two",
+      "image": "ItTakesTwo"
+    },
+    {
+      "id": 5,
+      "title": "Gravity Rush (Remastered)",
+      "overview": "An imaginative and detailed story wherein Kat finds herself with a strange cat for a companion, the power to control gravity, and no memories.",
+      "more": "Waking up in an unknown city with no memory of who she is, Kat slowly uncovers the mysteries of her world, her power, and her past, while making friends and foes along the way. What lies at the bottom of the world pillar, what's the deal with those gravity storms, and why does one of those weird creatures have a glowing butt?! Play to find out.",
+      "reviews": [
+        {
+          "Courtney": "SO good. Totally different, with interesting graphics, music, and storyline."
+        }
+      ],
+      "released": "2016",
+      "developer": "Japan Studio (Team Gravity)",
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
+      "platforms": [
+        "PlayStation"
+      ],
+      "numPlayers": [
+        "Single-Player"
+      ],
+      "url": "https://store.playstation.com/en-us/product/UP9000-CUSA01130_00-GRAVITYRUSHHD000/",
+      "image": "GravityR"
+    },
+    {
+      "id": 6,
+      "title": "Gravity Rush 2",
+      "overview": "Following on the story from the first game, this sequel provides a much expanded world to explore, and new gravity powers to learn.",
+      "more": "Kat and Syd find themselves in a different world where they meet new characters and Kat learns new skills while getting caught up in the political and social struggles of her new home.",
+      "reviews": [
+        {
+          "Courtney": "Even better than the original, though the first game needs to be played to understand the story. Rich open-world exploration where you can 'fly' and kick butt? Yes please."
+        }
+      ],
+      "released": "2017",
+      "developer": "Japan Studio (Team Gravity)",
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
+      "platforms": [
+        "PlayStation"
+      ],
+      "numPlayers": [
+        "Single-Player"
+      ],
+      "url": "https://www.playstation.com/en-au/games/gravity-rush-2/",
+      "image": "Gravity2"
+    },
+    {
+      "id": 7,
+      "title": "Flower",
+      "overview": "Designed to evoke positive feelings in the player, this is a relaxing and whimsical journey to collect petals from flowers and reawaken the land.",
+      "more": "With the simplest controls, the player is the wind blowing petals around to collect more petals, sprout new flowers, and return life and beauty to a greyed out and stressful world. The music and sound effects respond to the player's actions, with each of the six levels progressing the story to a satisfying conclusion.",
+      "reviews": [
+        {
+          "Courtney": "So relaxing. The music, pace, and visuals make for an excellent de-stress, and it's easy enough for even a non-gamer to play."
+        }
+      ],
+      "released": "2009",
+      "developer": "Thatgamecompany",
+      "genres": [
+        "Adventure",
+        "Art"
+      ],
+      "platforms": [
+        "PlayStation",
+        "iOS"
+      ],
+      "numPlayers": [
+        "Single-Player"
+      ],
+      "url": "https://thatgamecompany.com/flower/",
+      "image": "Flower"
+    },
+    {
+      "id": 8,
+      "title": "Overcooked!",
+      "overview": "Chaotic couch co-op for 1-4 players. Collaborate to make various dishes to please the crowds, while trying not to die from the ever-more-ridiculous kitchen environments. ",
+      "more": "Players take on the role of a chef and prepare, cook, and serve meals, all in the service of the Onion King. Dishes must be completed in the right order and in a set time. The main villain in this game is the giant hungry meatball.",
+      "reviews": {
+        "Courtney": "Hilarious. I played through all the levels with my sister and we had a great time yelling at and screaming along with each other. ONION ONION ONION!! WHAT'S HAPPENING WHY IS THERE AN EARTHQUAKE?! ARRRRHHHHHH!! Much fun and laughter to be had."
+      },
+      "released": "2016",
+      "developer": "Ghost Town Games",
+      "genres": [
+        "Action",
+        "Cooking",
+        "Co-Op",
+        "Simulation"
+      ],
+      "platforms": [
+        "PlayStation",
+        "Stadia",
+        "Switch",
+        "Windows",
+        "Xbox"
+      ],
+      "numPlayers": [
+        "Single-Player",
+        "Multiplayer"
+      ],
+      "url": "https://www.team17.com/games/overcooked/",
+      "image": "Overcooked"
+    },
+    {
+      "id": 9,
+      "title": "Overcooked! 2",
+      "overview": "Building upon the original, this sequel introduces for themes, characters, and recipes, with even more insane kitchen designs and obstacles. ",
+      "more": "As a chef, you must battle to prepare, cook, and serve the correct meals in time, watching out for fires, moving stairs, switching portals, and lava. The ability to throw ingredients to another player can make things easier, or more difficult if your aim is bad. DLCs make for even more variety and fun, providing countless hours of entertainment.",
+      "reviews": [
+        {
+          "Courtney": "An expansion of the fun of the first game, with many themed add-ons. Darn those unbread!"
+        }
+      ],
+      "released": "2018",
+      "developer": "Ghost Town Games",
+      "genres": [
+        "Simulation",
+        "Cooking",
+        "Action",
+        "Co-Op"
+      ],
+      "platforms": [
+        "PlayStation",
+        "Windows",
+        "Xbox",
+        "Switch",
+        "Stadia",
+        "Luna",
+        "Linux",
+        "macOS"
+      ],
+      "numPlayers": [
+        "Single-Player",
+        "Multiplayer"
+      ],
+      "url": "https://www.team17.com/games/overcooked-2/",
+      "image": "Overcooked2"
+    },
+    {
+      "id": 10,
+      "title": "A Plague Tale: Innocence",
+      "overview": "Set in 1348 France, use stealth to evade Inquisition soldiers, English soldiers, and hordes of rats carrying the plague, while also keeping your 5-year-old sick brother safe.",
+      "more": "Surviving the murder of her family, 15-year-old Amicia de Rune must traverse the countryside to find safety, armed only with a sling, as well as try to complete an alchemic cure for brother whose blood holds a supernatural evil called the Prima Macula. The Head Inquisitor wants this power for himself in order to rule France.",
+      "reviews": {
+        "Courtney": "Tense, but interesting. Often gory, which usually isn't my thing, but the story sucked me in and I had to finish it."
+      },
+      "released": "2019",
+      "developer": "Asobo Studio",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Puzzle",
+        "Stealth",
+        "Survival"
+      ],
+      "platforms": [
+        "Luna",
+        "PlayStation",
+        "Switch",
+        "Windows",
+        "Xbox"
+      ],
+      "numPlayers": [
+        "Single-Player"
+      ],
+      "url": "https://www.asobostudio.com/games/plague-tale-innocence",
+      "image": "Plague"
+    },
+    {
+      "id": 11,
+      "title": "Taiko no Tatsujin: Drum Session!",
+      "overview": "Take up your drum sticks and get whacking! Taiko Drum Master is about playing drums in time to a wide variety of music tracks with variable difficulty.",
+      "more": "On your own or with a friend, battle your way to rhythmic perfection using either the standard controller buttons, or a dedicated taiko drum controller (purchased separately). Clearing songs leads to rewards such as new costume items or speech tags.",
+      "reviews": [
+        {
+          "Courtney": "Super cute and super fun. I enjoy customising my character as well as being introduced to new music."
+        }
+      ],
+      "released": "2017",
+      "developer": "Bandai Namco Studios",
+      "genres": [
+        "Arcade",
+        "Rhythm"
+      ],
+      "platforms": [
+        "PlayStation"
+      ],
+      "numPlayers": [
+        "Single-Player",
+        "Multiplayer"
+      ],
+      "url": "https://www.asobostudio.com/games/plague-tale-innocence",
+      "image": "Taiko"
+    },
+    {
+      "id": 12,
+      "title": "Final Fantasy VIII",
+      "overview": "Moody teen mercenaries with magic and big swords battle both natural and supernatural forces to save the universe from obliteration.",
+      "more": "Squall finds himself leading the battle against the time-travelling Sorceress who wishes to compress all of time and space within her so as to recreate the universe as she sees fit. Featuring a giant cactus with a moustache, a stabby monk turtle thing, and other such fun surprises. Also there are monsters on the moon.",
+      "reviews": [
+        {
+          "Courtney": "First played it in high school and fell in love with the story and music. Ragnarok is so cool. I want one."
+        }
+      ],
+      "released": "1999",
+      "developer": "Square Enix",
+      "genres": [
+        "RPG",
+        "Action",
+        "Adventure"
+      ],
+      "platforms": [
+        "PlayStation",
+        "Windows",
+        "iOS",
+        "Android",
+        "Switch",
+        "Xbox"
+      ],
+      "numPlayers": [
+        "Single-Player"
+      ],
+      "url": "https://na.finalfantasy.com/titles/finalfantasy8",
+      "image": "FFVIII"
+    },
+    {
+      "id": 13,
+      "title": "EcoQuest: The Search for Cetus",
+      "overview": "10-year old boy, Adam, discovers he can talk to animals, and goes on a quest with his dolphin friend to kind the whale king Cetus.",
+      "more": "Featuring many environmental themes such as pollution and human corruption, the game introduces children to marine biology and conservation, awarding extra points for cleaning up rubbish.",
+      "reviews": [
+        {
+          "Courtney": "A gem from my childhood."
+        }
+      ],
+      "released": "1991",
+      "developer": "Sierra",
+      "genres": [
+        "Adventure",
+        "Educational",
+        "Puzzle"
+      ],
+      "platforms": [
+        "MS-DOS"
+      ],
+      "numPlayers": [
+        "Single-Player"
+      ],
+      "url": "https://www.sierragamers.com/ecoquest-1/",
+      "image": "Cetus"
+    },
+    {
+      "id": 14,
+      "title": "EcoQuest 2: Lost Secret of the Rainforest",
+      "overview": "Adam returns slightly older, and more environmentally conscious than ever as he explores a tropical rainforest and attempting to save it from destruction.",
+      "more": "Talking animals AND a talking tree this time. Learn about the flora and fauna of the rainforest, as well as the positive and negative results of human interaction. With the help of natives and various animals, Adam searches for the lost City of Gold in his pursuit of a remedy for the Grove People.",
+      "reviews": [
+        {
+          "Courtney": "One of my favourites growing up, I still play it now once a year or so for nostalgia."
+        }
+      ],
+      "released": "1993",
+      "developer": "Sierra",
+      "genres": [
+        "Adventure",
+        "Educational",
+        "Puzzle"
+      ],
+      "platforms": [
+        "MS-DOS"
+      ],
+      "numPlayers": [
+        "Single-Player"
+      ],
+      "url": "https://www.sierragamers.com/EcoQuest-2/",
+      "image": "Rainforest"
+    },
+    {
+      "id": 15,
+      "title": "The Incredible Machine",
+      "overview": "Create Rube Goldberg machines with a variety of weird and wonderful objects such as a cat, balloon, trampoline, or a goldfish in a bowl.",
+      "more": "Arrange a given collection of objects in a needlessly complex fashion so as to perform some simple task . Available objects range from simple ropes and pulleys to electrical generators, bowling balls, and even cats and mice to humans, most of which have specific interactions with or reactions to other objects.",
+      "reviews": {
+        "Courtney": "I spent many an hour on this game growing up. A good workout for a young brain haha"
+      },
+      "released": "1993",
+      "developer": "Dynamix",
+      "genres": [
+        "Puzzle"
+      ],
+      "platforms": [
+        "MS-DOS"
+      ],
+      "numPlayers": [
+        "Single-Player"
+      ],
+      "url": "https://en.wikipedia.org/wiki/The_Incredible_Machine",
+      "image": "Machine"
+    },
+    {
+      "id": 16,
+      "title": "King's Quest 7: The Princeless Bride",
+      "overview": "Mother and daughter, Valanice and Rosella, are pulled into the realm of Eldritch and, while separated, work to defeat the evil Malicia and find a way home.",
+      "more": "The characters find and exchange items with other characters in order to help solve the puzzles obstructing their paths. Featuring trolls, ghosts, boogymen, fairies, flying horses, a dragon, and a volcano, this game is enough to keep kids interested for hours.",
+      "reviews": [
+        {
+          "Courtney": "Many hours of enjoyment when younger. Also frustration being at a time where I had no idea about walkthroughs. Back then, if you wanted to inish a game, you had to work for it haha"
+        }
+      ],
+      "released": "1994",
+      "developer": "Sierra",
+      "genres": [
+        "Adventure",
+        "Puzzle"
+      ],
+      "platforms": [
+        "MS-DOS",
+        "Windows",
+        "Macintosh"
+      ],
+      "numPlayers": [
+        "Single-Player"
+      ],
+      "url": "https://en.wikipedia.org/wiki/King%27s_Quest_VII",
+      "image": "KingsQuest7"
+    },
+    {
+      "id": 17,
+      "title": "Brothers: A Tale of Two Sons",
+      "overview": "Two brothers go on a journey to find the cure for their sick father.",
+      "more": "Naiee and Naia have lost their mother, and are desperate not to lose their sick father, so they go on a journey to collect water from the Tree of Life.\nGood music and story, along with interesting game mechanics. Somewhat Nordic.",
+      "reviews": {
+        "Courtney": "Interesting but frankly depressing. I enjoyed the goat riding, as well as the mental challenge of controlling two characters at the same time."
+      },
+      "released": "2013",
+      "developer": "Starbreeze Studios",
+      "genres": [
+        "Adventure",
+        "Puzzle"
+      ],
+      "platforms": [
+        "Android",
+        "iOS",
+        "PlayStation",
+        "Switch",
+        "Windows",
+        "Xbox"
+      ],
+      "numPlayers": [
+        "Single-Player",
+        "Multiplayer"
+      ],
+      "url": "https://brothers.505games.com/",
+      "image": "Brothers"
+    },
+    {
+      "id": 18,
+      "title": "Arise: A Simple Story",
+      "overview": "Old dude relives his life's key moments while traversing weird and wonderful landscapes.",
+      "more": "Set out on an adventure through the changing landscapes of memories lush with feelings of love and loss. Every moment of this rollercoaster ride is a new challenge and a chance to see your life in a different light.",
+      "reviews": {
+        "Courtney": "games.forEach(game => { populateCards(game); })"
+      },
+      "released": "2019",
+      "developer": "Piccolo Studio",
+      "genres": [
+        "Adventure"
+      ],
+      "platforms": [
+        "PlayStation",
+        "Switch",
+        "Windows",
+        "Xbox"
+      ],
+      "numPlayers": [
+        "Single-Player",
+        "Multiplayer"
+      ],
+      "url": "https://arise-game.com/index.html?lang=en_US",
+      "image": "Arise"
+    },
+    {
+      "id": 19,
+      "title": "Edited game title",
+      "overview": "blah blah",
+      "more": "blah blah blah blah",
+      "reviews": {
+        "Courtney": "Review"
+      },
+      "released": "1995",
+      "developer": "Moi Studios",
+      "genres": [
+        "Arcade",
+        "Rhythm",
+        "RPG"
+      ],
+      "platforms": [
+        "iOS",
+        "PlayStation"
+      ],
+      "numPlayers": [
+        "Single-Player",
+        "Multiplayer"
+      ],
+      "url": "https://www.google.com",
+      "image": "new"
+    },
+    {
+      "id": 20,
+      "title": "New game",
+      "overview": "Description",
+      "more": "Lots more description",
+      "reviews": {
+        "Courtney": "Review"
+      },
+      "released": "2020",
+      "developer": "Moi Studios",
+      "genres": [
+        "Action",
+        "Platform"
+      ],
+      "platforms": [
+        "Android",
+        "PlayStation"
+      ],
+      "numPlayers": [
+        "Multiplayer"
+      ],
+      "url": "https://www.google.com",
+      "image": "new"
+    },
+    {
+      "id": 21,
+      "title": "Another new game",
+      "overview": "fsagdfg",
+      "more": "sdfsfh",
+      "reviews": {
+        "Courtney": "fhfghd"
+      },
+      "released": "1999",
+      "developer": "Moi Studios",
+      "genres": [
+        "Adventure",
+        "Simulation"
+      ],
+      "platforms": [
+        "Luna",
+        "macOS"
+      ],
+      "numPlayers": [
+        "Single-Player",
+        "Multiplayer"
+      ],
+      "url": "https://www.google.com",
+      "image": "new"
+    },
+    {
+      "id": 22,
+      "title": "More new game",
+      "overview": "gfhfdj",
+      "more": "jhgjhgdjh",
+      "reviews": {
+        "Courtney": "hgjfgjhgf"
+      },
+      "released": "2019",
+      "developer": "Moi Studios",
+      "genres": [
+        "Arcade",
+        "Cooking",
+        "Co-Op"
+      ],
+      "platforms": [
+        "MS-DOS"
+      ],
+      "numPlayers": [
+        "Single-Player"
+      ],
+      "url": "https://www.google.com",
+      "image": "new"
+    },
+    {
+      "id": 23,
+      "title": "This is a title",
+      "overview": "gdfjkahgkj",
+      "more": "gjkljbkl;a",
+      "reviews": {
+        "Courtney": "djkglejasgl"
+      },
+      "released": "1999",
+      "developer": "Moi Studios",
+      "genres": [
+        "Educational",
+        "Survival"
+      ],
+      "platforms": [
+        "Luna"
+      ],
+      "numPlayers": [
+        "Multiplayer"
+      ],
+      "url": "https://www.google.com",
+      "image": "new"
+    }
+  ]
+}
