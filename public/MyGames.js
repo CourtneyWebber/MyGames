@@ -1,5 +1,5 @@
 function loadCards() {
-         axios.get('http://localhost:3000/games')
+         axios.get('http://localhost:4000/games')
              .then(response => {
                  checkContent(response.data);
         })
@@ -24,7 +24,7 @@ function populateCards(game) {
 }
 
 function populateDropdown() {
-    axios.get('http://localhost:3000/games')
+    axios.get('http://localhost:4000/games')
         .then(response => { 
             let games = response.data;
             let select = document.getElementById("select");            
@@ -74,7 +74,7 @@ function fillForm() {
     let selectElement = document.getElementById("select");    
     let id = selectElement.options[selectElement.selectedIndex].value;
 
-    axios.get('http://localhost:3000/games/' + id)
+    axios.get('http://localhost:4000/games/id?id=' + id)
         .then(response => {
             game = response.data;
            
@@ -125,7 +125,7 @@ function fillForm() {
 }
 
 function editGame() {
-    axios.get('http://localhost:3000/games')
+    axios.get('http://localhost:4000/games')
         .then(response => {
             let games = response.data;
             let selectElement = document.getElementById("select");
@@ -138,7 +138,6 @@ function editGame() {
                 }
             }
 
-            //Must contain all keys or it will overwrite with only what is provided.
             let updateTitle = document.getElementById("title").value;
             let updateOverview = document.getElementById("overview").value;
             let updateMore = document.getElementById("more").value;
@@ -182,7 +181,7 @@ function editGame() {
 }
 
 function addGame() {    
-    axios.get('http://localhost:3000/games')    
+    axios.get('http://localhost:4000/games')    
         .then(response => {            
             let gamesLength = (Object.keys(response.data).length + 1);
 
@@ -232,7 +231,7 @@ function addGame() {
 }
 
 function postJSON(newGame) {
-    axios.post('http://localhost:3000/games', newGame)
+    axios.post('http://localhost:4000/games/addGame', newGame)
         .then(response => {
             alert("New game added");
             document.getElementById('gameForm').reset();
@@ -241,12 +240,12 @@ function postJSON(newGame) {
         })
         .catch(function (error) {
             console.log(error);
-            alert("New game unable to be added")
+            alert("New game unable to be added");
         }); 
 }
 
 function putJSON(updatedGame, id) {    
-    axios.put('http://localhost:3000/games/' + id, updatedGame)
+    axios.put('http://localhost:4000/games/updateGame', updatedGame)
         .then(response => {
             alert("Game updated");
         })
@@ -273,7 +272,7 @@ function validateLogin() {
 }
 
 function setCount() {
-    axios.get('http://localhost:3000/games')
+    axios.get('http://localhost:4000/games')
         .then(response => {
             document.getElementById('gamesCount').innerHTML = response.data.length;
         })
@@ -282,4 +281,4 @@ function setCount() {
         })
 }
     
-//npx json-server --watch db.json
+//npx json-server --watch db.json --port 3000
