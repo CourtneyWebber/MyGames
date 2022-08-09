@@ -189,9 +189,11 @@
       "title": "Overcooked!",
       "overview": "Chaotic couch co-op for 1-4 players. Collaborate to make various dishes to please the crowds, while trying not to die from the ever-more-ridiculous kitchen environments. ",
       "more": "Players take on the role of a chef and prepare, cook, and serve meals, all in the service of the Onion King. Dishes must be completed in the right order and in a set time. The main villain in this game is the giant hungry meatball.",
-      "reviews": {
-        "Courtney": "Hilarious. I played through all the levels with my sister and we had a great time yelling at and screaming along with each other. ONION ONION ONION!! WHAT'S HAPPENING WHY IS THERE AN EARTHQUAKE?! ARRRRHHHHHH!! Much fun and laughter to be had."
-      },
+      "reviews": [
+        {
+          "Courtney": "Hilarious. I played through all the levels with my sister and we had a great time yelling at and screaming along with each other. ONION ONION ONION!! WHAT'S HAPPENING WHY IS THERE AN EARTHQUAKE?! ARRRRHHHHHH!! Much fun and laughter to be had."
+        }
+      ],
       "released": "2016",
       "developer": "Ghost Town Games",
       "genres": [
@@ -221,26 +223,26 @@
       "more": "As a chef, you must battle to prepare, cook, and serve the correct meals in time, watching out for fires, moving stairs, switching portals, and lava. The ability to throw ingredients to another player can make things easier, or more difficult if your aim is bad. DLCs make for even more variety and fun, providing countless hours of entertainment.",
       "reviews": [
         {
-          "Courtney": "An expansion of the fun of the first game, with many themed add-ons. Darn those unbread!"
+          "Courtney": "An expansion of the fun of the first game, with many themed add-ons. Darn those unbread! xx"
         }
       ],
       "released": "2018",
       "developer": "Ghost Town Games",
       "genres": [
-        "Simulation",
-        "Cooking",
         "Action",
-        "Co-Op"
+        "Cooking",
+        "Co-Op",
+        "Simulation"
       ],
       "platforms": [
-        "PlayStation",
-        "Windows",
-        "Xbox",
-        "Switch",
-        "Stadia",
-        "Luna",
         "Linux",
-        "macOS"
+        "Luna",
+        "macOS",
+        "PlayStation",
+        "Stadia",
+        "Switch",
+        "Windows",
+        "Xbox"
       ],
       "numPlayers": [
         "Single-Player",
@@ -254,9 +256,11 @@
       "title": "A Plague Tale: Innocence",
       "overview": "Set in 1348 France, use stealth to evade Inquisition soldiers, English soldiers, and hordes of rats carrying the plague, while also keeping your 5-year-old sick brother safe.",
       "more": "Surviving the murder of her family, 15-year-old Amicia de Rune must traverse the countryside to find safety, armed only with a sling, as well as try to complete an alchemic cure for brother whose blood holds a supernatural evil called the Prima Macula. The Head Inquisitor wants this power for himself in order to rule France.",
-      "reviews": {
-        "Courtney": "Tense, but interesting. Often gory, which usually isn't my thing, but the story sucked me in and I had to finish it."
-      },
+      "reviews": [
+        {
+          "Courtney": "Tense, but interesting. Often gory, which usually isn't my thing, but the story sucked me in and I had to finish it."
+        }
+      ],
       "released": "2019",
       "developer": "Asobo Studio",
       "genres": [
@@ -393,9 +397,11 @@
       "title": "The Incredible Machine",
       "overview": "Create Rube Goldberg machines with a variety of weird and wonderful objects such as a cat, balloon, trampoline, or a goldfish in a bowl.",
       "more": "Arrange a given collection of objects in a needlessly complex fashion so as to perform some simple task . Available objects range from simple ropes and pulleys to electrical generators, bowling balls, and even cats and mice to humans, most of which have specific interactions with or reactions to other objects.",
-      "reviews": {
-        "Courtney": "I spent many an hour on this game growing up. A good workout for a young brain haha"
-      },
+      "reviews": [
+        {
+          "Courtney": "I spent many an hour on this game growing up. A good workout for a young brain haha"
+        }
+      ],
       "released": "1993",
       "developer": "Dynamix",
       "genres": [
@@ -442,9 +448,11 @@
       "title": "Brothers: A Tale of Two Sons",
       "overview": "Two brothers go on a journey to find the cure for their sick father.",
       "more": "Naiee and Naia have lost their mother, and are desperate not to lose their sick father, so they go on a journey to collect water from the Tree of Life.\nGood music and story, along with interesting game mechanics. Somewhat Nordic.",
-      "reviews": {
-        "Courtney": "Interesting but frankly depressing. I enjoyed the goat riding, as well as the mental challenge of controlling two characters at the same time."
-      },
+      "reviews": [
+        {
+          "Courtney": "Interesting but frankly depressing. I enjoyed the goat riding, as well as the mental challenge of controlling two characters at the same time."
+        }
+      ],
       "released": "2013",
       "developer": "Starbreeze Studios",
       "genres": [
@@ -471,9 +479,11 @@
       "title": "Arise: A Simple Story",
       "overview": "Old dude relives his life's key moments while traversing weird and wonderful landscapes.",
       "more": "Set out on an adventure through the changing landscapes of memories lush with feelings of love and loss. Every moment of this rollercoaster ride is a new challenge and a chance to see your life in a different light.",
-      "reviews": {
-        "Courtney": "games.forEach(game => { populateCards(game); })"
-      },
+      "reviews": [
+        {
+          "Courtney": "games.forEach(game => { populateCards(game); })"
+        }
+      ],
       "released": "2019",
       "developer": "Piccolo Studio",
       "genres": [
@@ -497,9 +507,11 @@
       "title": "Edited game title",
       "overview": "blah blah",
       "more": "blah blah blah blah",
-      "reviews": {
-        "Courtney": "Review"
-      },
+      "reviews": [
+        {
+          "Courtney": "Review"
+        }
+      ],
       "released": "1995",
       "developer": "Moi Studios",
       "genres": [
@@ -523,9 +535,11 @@
       "title": "New game",
       "overview": "Description",
       "more": "Lots more description",
-      "reviews": {
-        "Courtney": "Review"
-      },
+      "reviews": [
+        {
+          "Courtney": "Review"
+        }
+      ],
       "released": "2020",
       "developer": "Moi Studios",
       "genres": [
@@ -547,9 +561,11 @@
       "title": "Another new game",
       "overview": "fsagdfg",
       "more": "sdfsfh",
-      "reviews": {
-        "Courtney": "fhfghd"
-      },
+      "reviews": [
+        {
+          "Courtney": "fhfghd"
+        }
+      ],
       "released": "1999",
       "developer": "Moi Studios",
       "genres": [
@@ -572,9 +588,11 @@
       "title": "More new game",
       "overview": "gfhfdj",
       "more": "jhgjhgdjh",
-      "reviews": {
-        "Courtney": "hgjfgjhgf"
-      },
+      "reviews": [
+        {
+          "Courtney": "hgjfgjhgf"
+        }
+      ],
       "released": "2019",
       "developer": "Moi Studios",
       "genres": [
@@ -596,9 +614,11 @@
       "title": "This is a title",
       "overview": "gdfjkahgkj",
       "more": "gjkljbkl;a",
-      "reviews": {
-        "Courtney": "djkglejasgl"
-      },
+      "reviews": [
+        {
+          "Courtney": "djkglejasgl"
+        }
+      ],
       "released": "1999",
       "developer": "Moi Studios",
       "genres": [
@@ -613,9 +633,6 @@
       ],
       "url": "https://www.google.com",
       "image": "new"
-    },
-    {
-      "id": 24
     }
   ]
 }

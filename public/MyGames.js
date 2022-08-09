@@ -171,7 +171,8 @@ function editGame() {
 
             let updateURL = document.getElementById("url").value;            
 
-            let updatedGame = ({ id: id, title: updateTitle, overview: updateOverview, more: updateMore, reviews: { "Courtney": updateReview }, released: updateYear, developer: updateDev, genres: genreArray, platforms: platformArray, numPlayers: playerArray, url: updateURL, image: updateImage });
+            //this fixes your issue with the reviews - the json was expecting an object array but you were passing a single object
+            let updatedGame = { id: id, title: updateTitle, overview: updateOverview, more: updateMore, reviews: [{ "Courtney": updateReview }], released: updateYear, developer: updateDev, genres: genreArray, platforms: platformArray, numPlayers: playerArray, url: updateURL, image: updateImage };
 
             putJSON(updatedGame, id);
         })
@@ -221,7 +222,8 @@ function addGame() {
             let newURL = document.getElementById("url").value;
             let newImage = "new";
 
-            let newGame = ({ id: gamesLength, title: newTitle, overview: newOverview, more: newMore, reviews: { "Courtney": newReview }, released: newYear, developer: newDev, genres: genreArray, platforms: platformArray, numPlayers: playerArray, url: newURL, image: newImage });
+            //this fixes your issue with the reviews - the json was expecting an object array but you were passing a single object
+            let newGame = ({ id: gamesLength, title: newTitle, overview: newOverview, more: newMore, reviews: [{ "Courtney": newReview }], released: newYear, developer: newDev, genres: genreArray, platforms: platformArray, numPlayers: playerArray, url: newURL, image: newImage });
 
             postJSON(newGame);
         })
@@ -245,7 +247,7 @@ function postJSON(newGame) {
 }
 
 function putJSON(updatedGame, id) {    
-    axios.put('http://localhost:4000/games/updateGame', updatedGame)
+    axios.put('http://localhost:4000/games/updateGame?id='+id, updatedGame) //just needed the ID for PUT calls
         .then(response => {
             alert("Game updated");
         })

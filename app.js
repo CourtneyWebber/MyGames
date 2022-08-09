@@ -4,9 +4,11 @@ const express = require('express');
 const indexRoute = require('./routes/indexRoute');
 const app = express();
 
+app.use(express.json()); //need to put this before the router mappings
+
 app.use('/games', indexRoute);
 app.use('/', express.static('public'));
-app.use(express.json());
+
 
 app.set('port', process.env.PORT || 4000); //running the express app on port 4000, json server running on port 3500.
 
